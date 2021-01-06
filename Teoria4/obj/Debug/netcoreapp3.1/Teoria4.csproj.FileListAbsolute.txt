@@ -1,0 +1,12 @@
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\bin\Debug\netcoreapp3.1\Teoria4.exe
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\bin\Debug\netcoreapp3.1\Teoria4.deps.json
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\bin\Debug\netcoreapp3.1\Teoria4.runtimeconfig.json
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\bin\Debug\netcoreapp3.1\Teoria4.runtimeconfig.dev.json
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\bin\Debug\netcoreapp3.1\Teoria4.dll
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\bin\Debug\netcoreapp3.1\Teoria4.pdb
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\obj\Debug\netcoreapp3.1\Teoria4.AssemblyInfoInputs.cache
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\obj\Debug\netcoreapp3.1\Teoria4.AssemblyInfo.cs
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\obj\Debug\netcoreapp3.1\Teoria4.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\obj\Debug\netcoreapp3.1\Teoria4.dll
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\obj\Debug\netcoreapp3.1\Teoria4.pdb
+C:\Users\Estudos\source\repos\ExercicioVetores\Teoria4\obj\Debug\netcoreapp3.1\Teoria4.genruntimeconfig.cache
